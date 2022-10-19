@@ -73,6 +73,7 @@ header{
     border-radius: 5px  5px  5px  5px;
     font-size:14px;
     color: #778a50;
+    font-family: Arial;
 }
 .box_join{
    
@@ -83,6 +84,7 @@ header{
     border-radius:   5px 5px  5px  5px;
     font-size:14px;
     color: #778a50;
+    font-family: Arial;
 }
 .nav{
     display: flex;
@@ -261,7 +263,7 @@ header{
     margin-right: auto;
 }
 .Copyrights{
-
+    color: #edf2c5;
     justify-content: center;
     align-items: center;
     padding-top: 23px;
